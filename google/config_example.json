@@ -1,0 +1,11 @@
+{
+  "credentials": "google/creds.json",
+  "gsheet": "",
+  "worksheets": {
+    "main": "",
+    "nbrb": "",
+    "silver": "",
+    "gold": "",
+    "statistic": ""
+  }
+}
